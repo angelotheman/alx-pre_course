@@ -1,1 +1,1 @@
-A README file to this directory
+A README file for Software Engineering at ALX
